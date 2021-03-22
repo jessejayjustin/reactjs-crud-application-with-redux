@@ -1,13 +1,6 @@
-# Contact Manager React-Redux
+# ReactJS Crud Application with Redux
 
 # Demo: https://safe-savannah-43634.herokuapp.com/
-
-if you're cloning for the first
-time, to ensure you download including laravel api use:
-
-git clone --recursive <project url>
-
-
 
 ## Installation ##
 
