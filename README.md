@@ -1,4 +1,4 @@
-# React Redux Crud Operations
+# React JS with Redux Crud Operations
 
 # Demo: https://safe-savannah-43634.herokuapp.com/
 
